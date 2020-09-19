@@ -10,7 +10,6 @@ Rally topics covered will include:
 - visualising and reporting on championship results;
 - calculating and visualising pace;
 - pace intelligence: calculating pace requirements;
-- start order analysis: analysing pace in terms of start order;
 - visualising and analysing geodata (stage maps);
 - generating text commentraries / summaries from rally results data;
 - visualising WRC telemetry data.
