@@ -1,4 +1,5 @@
 # Publishing utils
+myst-nb
 jupytext
 
 # Network / scraping tools
