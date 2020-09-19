@@ -8,7 +8,9 @@ Rally topics covered will include:
 - scraping data from [wrc.com/en/wrcplus/all-live/](https://www.wrc.com/);
 - visualising and reporting on overall rally and rally stage results;
 - visualising and reporting on championship results;
+- comparing multiple runs on the same stage;
 - calculating and visualising pace;
+- data analyis: analysing pace in terms of teams, start order, etc;
 - pace intelligence: calculating pace requirements;
 - visualising and analysing geodata (stage maps);
 - generating text commentraries / summaries from rally results data;
