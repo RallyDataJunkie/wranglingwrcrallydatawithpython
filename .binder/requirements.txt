@@ -1,0 +1,12 @@
+# Publishing utils
+jupytext
+
+# Network / scraping tools
+requests
+
+# Performance tools
+dask
+
+# Data tools
+datasette
+pandas
